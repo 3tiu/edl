@@ -278,3 +278,171 @@ b7e6e145ed3f.s3.us-east-1.amazonaws.com/675c9906efea/Defender_Update_Setup_26614
 statssrv.com
 bdlstat.com
 theununsstats.com
+ca-central-1.awsplatform.online #RDP Spear Phishing 
+ca-west-1.mfa-gov.cloud #RDP Spear Phishing
+central-2-aws.ua-aws.army #RDP Spear Phishing
+eu-central-1-aws.mfa-gov.cloud #RDP Spear Phishing
+eu-central-1.mfa-gov.cloud #RDP Spear Phishing
+eu-central-1.ukrtelecom.cloud #RDP Spear Phishing
+eu-central-2-aws.ua-aws.army #RDP Spear Phishing
+eu-north-1-aws.ua-energy.cloud #RDP Spear Phishing
+eu-north-1-aws.ua-gov.cloud #RDP Spear Phishing
+eu-south-1-aws.mfa-gov.cloud #RDP Spear Phishing
+eu-south-2-aws.mfa-gov.cloud #RDP Spear Phishing
+eu-southeast-1-aws.gov-ua.cloud #RDP Spear Phishing
+eu-southeast-1-aws.govtr.cloud #RDP Spear Phishing
+eu-southeast-1-aws.zero-trust.solutions #RDP Spear Phishing
+us-east-1-aws.mfa-gov.cloud #RDP Spear Phishing
+us-east-2-aws.ua-gov.cloud #RDP Spear Phishing
+us-east-console.awsplatform.online #RDP Spear Phishing
+us-west-1-amazon.ua-energy.cloud #RDP Spear Phishing
+us-west-1.aws-ukraine.cloud #RDP Spear Phishing
+us-west-1.ua-aws.army #RDP Spear Phishing
+us-west-1.ukrtelecom.cloud #RDP Spear Phishing
+us-west-2-aws.mfa-gov.cloud #RDP Spear Phishing
+zero-trust.solutions #RDP Spear Phishing
+ukrtelecom.cloud #RDP Spear Phishing
+awsplatform.online #RDP Spear Phishing
+aws-ukraine.cloud #RDP Spear Phishing
+aws-s3.cloud #RDP Spear Phishing
+aws-meet.cloud #RDP Spear Phishing
+aws-il.cloud #RDP Spear Phishing
+aws-data.cloud #RDP Spear Phishing
+aws-meetings.cloud #RDP Spear Phishing
+aws-secure.cloud #RDP Spear Phishing
+aws-join.cloud #RDP Spear Phishing
+aws-online.cloud #RDP Spear Phishing
+gov-au.cloud #RDP Spear Phishing
+gov-aws.cloud #RDP Spear Phishing
+gov-fi.cloud #RDP Spear Phishing
+gov-gr.cloud #RDP Spear Phishing
+gov-lt.cloud #RDP Spear Phishing
+gov-lv.cloud #RDP Spear Phishing
+gov-pl.cloud #RDP Spear Phishing
+gov-sk.cloud #RDP Spear Phishing
+gov-trust.cloud #RDP Spear Phishing
+gov-ua.cloud #RDP Spear Phishing
+govps.cloud #RDP Spear Phishing
+govtr.cloud #RDP Spear Phishing
+govua.cloud #RDP Spear Phishing
+eru-gov.cloud #RDP Spear Phishing
+feedzai-gov.cloud #RDP Spear Phishing
+md-gov.cloud #RDP Spear Phishing
+mf-gov.cloud #RDP Spear Phishing
+mo-gov.cloud #RDP Spear Phishing
+mpo-gov.cloud #RDP Spear Phishing
+mpsv-gov.cloud #RDP Spear Phishing
+msmt-gov.cloud #RDP Spear Phishing
+mv-gov.cloud #RDP Spear Phishing
+my-gov.cloud #RDP Spear Phishing
+mzd-gov.cloud #RDP Spear Phishing
+mze-gov.cloud #RDP Spear Phishing
+mzp-gov.cloud #RDP Spear Phishing
+mzv-gov.cloud #RDP Spear Phishing
+nakit-gov.cloud #RDP Spear Phishing
+nbu-gov.cloud #RDP Spear Phishing
+nukib-gov.cloud #RDP Spear Phishing
+policie-gov.cloud #RDP Spear Phishing
+mmr-gov.cloud #RDP Spear Phishing
+uohs-gov.cloud #RDP Spear Phishing
+uoou-gov.cloud #RDP Spear Phishing
+vlada-gov.cloud #RDP Spear Phishing
+voa-gov.cloud #RDP Spear Phishing
+mfa-gov.cloud #RDP Spear Phishing
+mfa-gov.cloud #RDP Spear Phishing
+mfa-gov-il.cloud #RDP Spear Phishing
+mfa-gov-il.cloud #RDP Spear Phishing
+mfa-gov-tr.cloud #RDP Spear Phishing
+mfa-gov-tr.cloud #RDP Spear Phishing
+mil-be.cloud #RDP Spear Phishing
+mil-ee.cloud #RDP Spear Phishing
+mil-pl.cloud #RDP Spear Phishing
+mil-pt.cloud #RDP Spear Phishing
+mod-gov-il.cloud #RDP Spear Phishing
+mod-gov-ilcloud #RDP Spear Phishing
+s3-acronis.cloud #RDP Spear Phishing
+s3-army.cloud #RDP Spear Phishing
+s3-atlassian.cloud #RDP Spear Phishing
+s3-aws.cloud #RDP Spear Phishing
+s3-bah.cloud #RDP Spear Phishing
+s3-be.cloud #RDP Spear Phishing
+s3-blackberry.cloud #RDP Spear Phishing
+s3-csis.cloud #RDP Spear Phishing
+s3-de.cloud #RDP Spear Phishing
+s3-dgap.cloud #RDP Spear Phishing
+s3-dk.cloud #RDP Spear Phishing
+s3-dnc.cloud #RDP Spear Phishing
+s3-esa.cloud #RDP Spear Phishing
+s3-fbi.cloud #RDP Spear Phishing
+s3-hudson.cloud #RDP Spear Phishing
+s3-ida.cloud #RDP Spear Phishing
+s3-iri.cloud #RDP Spear Phishing
+s3-knowbe4.cloud #RDP Spear Phishing
+s3-marcus.cloud #RDP Spear Phishing
+s3-monitoring.cloud #RDP Spear Phishing
+s3-nato.cloud #RDP Spear Phishing
+s3-ned.cloud #RDP Spear Phishing
+s3-nsa.cloud #RDP Spear Phishing
+s3-proofpoint.cloud #RDP Spear Phishing
+s3-pt.cloud #RDP Spear Phishing
+s3-rackspace.cloud #RDP Spear Phishing
+s3-rand.cloud #RDP Spear Phishing
+s3-spacex.cloud #RDP Spear Phishing
+s3-state.cloud #RDP Spear Phishing
+s3-stig.cloud #RDP Spear Phishing
+s3-ua.cloud #RDP Spear Phishing
+s3-ucia.cloud #RDP Spear Phishing
+s3-zoho.cloud #RDP Spear Phishing
+ua-aws.army #RDP Spear Phishing
+ua-energy.cloud #RDP Spear Phishing
+ua-gov.cloud #RDP Spear Phishing
+ua-gov.cloud #RDP Spear Phishing
+ua-mil.cloud #RDP Spear Phishing
+ua-sec.cloud #RDP Spear Phishing
+ua-se.cloud #RDP Spear Phishing
+ua-sn.cloud #RDP Spear Phishing
+allpdflive.com/ #ManualFinder Malware-campagne
+apdft.com #ManualFinder Malware-campagne
+appsuites.ai #ManualFinder Malware-campagne
+businesspdf.com #ManualFinder Malware-campagne
+convertpdfplus.com #ManualFinder Malware-campagne
+easyonestartpdf.com #ManualFinder Malware-campagne
+easypdfbox.com #ManualFinder Malware-campagne
+fastonestartpdf.com #ManualFinder Malware-campagne
+fullpdf.com #ManualFinder Malware-campagne
+getonestart.co #ManualFinder Malware-campagne
+getonestartpdf.com #ManualFinder Malware-campagne
+getpdfonestart.com #ManualFinder Malware-campagne
+getsmartpdf.com #ManualFinder Malware-campagne
+gopdfhub.com #ManualFinder Malware-campagne
+gopdfmanuals.com #ManualFinder Malware-campagne
+itpdf.com #ManualFinder Malware-campagne
+justpdflab.com #ManualFinder Malware-campagne
+manualsbyonestart.com #ManualFinder Malware-campagne
+mypdfonestart.com #ManualFinder Malware-campagne
+onestartbrowser.com #ManualFinder Malware-campagne
+onestartpdfdirect.com #ManualFinder Malware-campagne
+pdf-central.com #ManualFinder Malware-campagne
+pdf-kiosk.com #ManualFinder Malware-campagne
+pdfadmin.com #ManualFinder Malware-campagne
+pdfappsuite.com #ManualFinder Malware-campagne
+pdfartisan.com #ManualFinder Malware-campagne
+pdfdoccentral.com #ManualFinder Malware-campagne
+pdfeditorplus.com #ManualFinder Malware-campagne
+pdfmeta.com #ManualFinder Malware-campagne
+pdfonestart.com #ManualFinder Malware-campagne
+pdfonestarthub.com #ManualFinder Malware-campagne
+pdfonestartlive.com #ManualFinder Malware-campagne
+pdfonestarttoday.com #ManualFinder Malware-campagne
+pdforsmartminds.com #ManualFinder Malware-campagne
+pdfreplace.com #ManualFinder Malware-campagne
+printwithonestart.com #ManualFinder Malware-campagne
+proonestarthub.com #ManualFinder Malware-campagne
+proonestartpdf.com #ManualFinder Malware-campagne
+quickfastpdf.com #ManualFinder Malware-campagne
+quickpdfmanuals.com #ManualFinder Malware-campagne
+smarteasypdf.com #ManualFinder Malware-campagne
+smartmanualspdf.com #ManualFinder Malware-campagne
+smartonestartpdf.com #ManualFinder Malware-campagne
+smartviewpdf.com #ManualFinder Malware-campagne
+thepdfbox.com #ManualFinder Malware-campagne
