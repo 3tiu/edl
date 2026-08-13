@@ -52,8 +52,8 @@
 9hear9ofp5.dns.army
 9ok90wamt4.dns.navy
 9u8dnvzzim.dynv6.net
-Link-form-unj9.p-sm7rw6ru.workers.dev
-Pastes.dev
+link-form-unj9.p-sm7rw6ru.workers.dev
+pastes.dev
 a6rvf4ib57.v6.navy
 aaa.smartinvoicehub.org
 access.ips-nifty.dns.navy
@@ -159,9 +159,7 @@ chkblog.ublogblock.mydns.bz
 cid.nts-top.dns.army
 clemanimpianti.it.com
 clientservices-tiffany.co
-clipviet.blog:6606
-clipviet.blog:7707
-clipviet.blog:8808
+clipviet.blog
 closecont.casacam.net
 cloud-doc.abrdns.com
 cloud55file.cc
@@ -276,7 +274,6 @@ ferulantis.top
 files.developedindia.ink
 finory.giize.com
 fiw.security.token-manage.o-r.kr
-fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion
 fjyl3b6c83.v6.navy
 fklihnz6pb.v6.navy
 fleepsterones.fun
@@ -336,8 +333,6 @@ hu4e60f2ok.v6.navy
 ia0xaabpip7.v6.navy
 identificacion.seguridad-movil.app
 iforget.ubicacion-cloud.info
-ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion
-il0qjijik3.v6.army
 imajinandfusion.com
 info.controlbloginfo.mydns.bz
 info.edoc-manc.dns.army
@@ -576,8 +571,7 @@ n-store.nt0s-smt.dns.army
 n-store.nts-checkauth.mydns.vc
 n-store.reloguser2.dynv6.net
 n-store.store-ipscorp.dynv6.net
-nangcucz.blog:443
-nangcucz.blog:80
+nangcucz.blog
 naprildtype.dynv6.net
 narvelox.top
 naturallerevestimentos.com
@@ -647,7 +641,7 @@ nid-user.invoicedoc-ips.mydns.vc
 nid-user.ips-authcheck.mydns.bz
 nid-user.ips-checkauth.mydns.vc
 nid-user.ips-edocdeliver.mydns.bz
-nid-user.ips-helper.mydns.vc
+nid-user.ips-helper.mydns.bz
 nid-user.ips-helpinvoice.mydns.bz
 nid-user.ips-nidauth.mydns.vc
 nid-user.ips-nidlogin.dns.army
@@ -958,7 +952,6 @@ o46r3ey36xw.dns.navy
 oauth----en---sso--kucoin.webflow.io
 ocn.webmail.convertauth.icu
 odahlzr5lm.reliabilityinoperations.de
-odaygplp3zhyx7zl45egetl6dzc4reduisnoyym34rjdmaryfaz5doqd.onion
 oeupbld.com
 officedinisacombr.weebly.com
 officeemail.ru
@@ -970,7 +963,6 @@ ombrevall.top
 ombrexial.top
 omniaplastica.it.com
 omyfdwsxnd.dns.army
-ondytecla@gmail.com
 online.smartinvoicehub.org
 oob.moika.tech
 ooolde0khlq.dns.navy
@@ -1196,7 +1188,6 @@ te2kmk0f5x.v6.army
 teams-net-calls.com
 tech-nid.nem1fg.ucc8pb4qud.v6.army
 telkomactive.weebly.com
-tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion
 tguidelink.0sv8.qiz172u9i01.dns.army
 tguider.cloud-ip.cc
 thehindus.org
@@ -1288,12 +1279,12 @@ umberitox.click
 unitedtechnofzmlogies.vu
 untharex.click
 upd-log.ezgateway.net
-updates-check-microsoft.ddns.net:443
+updates-check-microsoft.ddns.net
 uromagiservicos.com
 urshort.live
 userdocnt.mydns.bz
 userinfo.uidentitycorp.dynv6.net
-usernhpost.dynv6.net
+usernhpost.mydns.bz
 ushort.com
 ushort.company
 ushort.dev
@@ -1402,5 +1393,4 @@ dz2.player0003.com
 dz2.bhalocast.pro
 dz2.bhalocast.com
 0x602a1f143b8c9751a9faf18324235457c08efcf4scan.siegenuke.com
-dp.elephant-blue.org
 constey.de
