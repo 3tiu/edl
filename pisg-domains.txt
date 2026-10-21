@@ -1394,3 +1394,5 @@ dz2.bhalocast.pro
 dz2.bhalocast.com
 0x602a1f143b8c9751a9faf18324235457c08efcf4scan.siegenuke.com
 constey.de
+steamtools.info
+nlb-0oihvq70lz6v3c6vn7.ap-southeast-1.nlb.aliyuncsslbintl.com
